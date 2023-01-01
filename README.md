@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Sujit!](https://github.com/sujitmeshram)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" style=" border-radius: 25px" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## Software Engineering is my Passion ❤.
 
