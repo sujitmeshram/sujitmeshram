@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on some personal projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and adding something great in community.
-- ❤ I'm very much interested to for <br>startup</br> which can impact and change the people's lives.
+- ❤ I'm very much interested to for <b>startup</b> which can impact and change the people's lives.
 - 📧 Mail : [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
 
 ---
