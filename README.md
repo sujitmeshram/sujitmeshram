@@ -7,8 +7,8 @@
 - 👨‍💻 I’m currently working on some personal projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and adding something great in community.
 - ❤ I'm very much interested to for <b>startup</b> which can impact and change the people's lives.
-- 📧 Mail : [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
-
+- 📧 Mail :[sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
+- 👉 LinkedIn:[www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)<br>
 ---
 
 ##### Languages I use
@@ -37,8 +37,6 @@
 <br/>
 
 ---
-
-<b>LinkedIn:</b> [www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)<br>
 
 <em><p class="love">Made <i class="icon ion-heart"></i> with ❤ by <b>Sujit</b></p>
 </em>
