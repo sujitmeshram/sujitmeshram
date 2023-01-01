@@ -38,7 +38,8 @@
 
 ---
 
+LinkedIn:[www.linkedin.com/in/sujitmeshram]https://www.linkedin.com/in/sujitmeshram
 Credit: [Sujit](https://github.com/sujitmeshram)
 
-<p class="love">Made with <i class="icon ion-heart"></i> in Chicago</p>
+<p class="love">Made <i class="icon ion-heart"></i> with ❤ by Sujit</p>
 
