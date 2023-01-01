@@ -38,8 +38,8 @@
 
 ---
 
-<b>LinkedIn</b>: [www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)<br>
-Credit: [Sujit](https://github.com/sujitmeshram)
+<b>LinkedIn:</b> [www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)<br>
+<br>Credit:</b> [Sujit](https://github.com/sujitmeshram)
 
 <p class="love">Made <i class="icon ion-heart"></i> with ❤ by Sujit</p>
 
