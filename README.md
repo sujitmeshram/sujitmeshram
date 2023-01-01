@@ -39,3 +39,15 @@
 ---
 
 Credit: [Sujit](https://github.com/sujitmeshram)
+
+<p style=" 
+.site-footer .icon {
+	font-size: 20px;
+}
+
+.site-footer .love .icon {
+	font-size: 12px;
+	margin-left: 2px;
+	margin-right: 2px;
+}" class="love">Made with <i class="icon ion-heart"></i> in Chicago</p>
+
