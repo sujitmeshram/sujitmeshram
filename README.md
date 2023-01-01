@@ -38,7 +38,7 @@
 
 ---
 
-LinkedIn:[www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)
+LinkedIn:[www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)<br>
 Credit: [Sujit](https://github.com/sujitmeshram)
 
 <p class="love">Made <i class="icon ion-heart"></i> with ❤ by Sujit</p>
