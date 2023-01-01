@@ -39,8 +39,8 @@
 ---
 
 Credit: [Sujit](https://github.com/sujitmeshram)
-
-<p style=" 
+<style>
+	
 .site-footer .icon {
 	font-size: 20px;
 }
@@ -49,5 +49,7 @@ Credit: [Sujit](https://github.com/sujitmeshram)
 	font-size: 12px;
 	margin-left: 2px;
 	margin-right: 2px;
-}" class="love">Made with <i class="icon ion-heart"></i> in Chicago</p>
+}
+</style>
+<p class="love">Made with <i class="icon ion-heart"></i> in Chicago</p>
 
