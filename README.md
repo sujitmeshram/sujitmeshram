@@ -40,5 +40,5 @@
 <b>LinkedIn:</b> [www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)<br>
 <br>Credit:</b> [Sujit](https://github.com/sujitmeshram)
 
-<em><p class="love">Made <i class="icon ion-heart"></i> with ❤ by Sujit</p>
+<em><p class="love">Made <i class="icon ion-heart"></i> with ❤ by <b>Sujit</b></p>
 </em>
