@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" style="border-radius:50%" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## Software Engineering is my Passion ❤.
+## Software Engineering is my Passion ❤
 
 - 👨‍💻 I’m currently working on some personal projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and adding something great in community.
