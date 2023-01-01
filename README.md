@@ -5,7 +5,7 @@
 ## Software Engineering is my Passion ❤.
 
 - 👨‍💻 I’m currently working on some personal projects.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and adding something great in community.
 - ❤ I'm very much interested to for startup which can impact and change the people's lives.
 
 ---
