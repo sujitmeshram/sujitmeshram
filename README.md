@@ -7,8 +7,8 @@
 
 - 👨‍💻 I’m currently working on some personal projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and adding something great in community.
-- ❤ I'm very much interested to for <b>startup</b> which can impact and change the people's lives.
-- 👨‍💻 I just want to contribute to that codebase which is or which will be serving millions of customer. 
+- ❤ I'm very much interested to work for <b>startup</b> which can impact and change the millions of people's lives.
+- 👨‍💻 My main goal of life is to contribute to that codebase which is or which will be serving millions of customer. 
 - 📧 Mail :[sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
 - 👉 LinkedIn:[www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)<br>
 ---
