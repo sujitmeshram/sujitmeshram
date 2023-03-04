@@ -8,7 +8,7 @@
 - <b>Actively Looking for Software Engineer-1 Role <b> 📧 Mail: [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
 - 👨‍💻 I’m currently working on some personal projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and adding something great in community.
-- ❤ I'm very much interested to work for <b>startup</b> which can impact and change the millions of people's lives.
+ - ❤ I'm very much interested to work for <b>startups</b> or <b>product based companies</b> which can impact and change the millions of people's lives.
 - 👨‍💻 My main goal of life is to contribute to that codebase which is or which will be serving millions of customer. 
 - 👉 LinkedIn: [www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)<br>
 ---
