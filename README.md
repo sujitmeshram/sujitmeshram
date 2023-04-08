@@ -1,33 +1,17 @@
-# Hi there! 👋 I'm [Your Name], a Software Engineer 💻
+# Hi there! 👋 I'm Sujit M, a Software Engineer 💻
 
 Welcome to my GitHub profile! I'm passionate about creating innovative software solutions that make a positive impact on people's lives. With a strong background in software development and a love for problem-solving, I'm always excited to take on new challenges and learn new technologies.
-
-## 🔭 What I'm Currently Working On
-
-I'm currently working on several exciting projects, including:
-
-- [Project 1]: A web application that helps streamline the process of managing and organizing tasks for remote teams.
-- [Project 2]: A mobile app for tracking personal fitness goals and providing personalized workout plans.
-- [Project 3]: A machine learning project focused on natural language processing for sentiment analysis.
 
 ## 💻 Tech Stack
 
 I'm proficient in several programming languages and technologies, including:
 
 - **Frontend Development**: HTML, CSS, JavaScript, React, Angular
-- **Backend Development**: Node.js, Python, Java, Express
+- **Backend Development**: Node.js, Python, Java, Express,js
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Machine Learning**: TensorFlow, Scikit-Learn, PyTorch
 - **Version Control**: Git, GitHub
-
-## 🌱 What I'm Currently Learning
-
-I believe in continuous learning and always strive to improve my skills. Currently, I'm focused on expanding my knowledge in:
-
-- Microservices architecture
-- Cloud computing platforms like AWS and Azure
-- Docker and Kubernetes for containerization and orchestration
-- Advanced data structures and algorithms
+- **Others**: Postman, Socket.io
 
 ## 👨‍💻 My Work Philosophy
 
@@ -37,10 +21,8 @@ As a software engineer, I'm committed to writing clean, efficient, and scalable 
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
-- Website/Blog: [Your Website/Blog URL]
+- Email: [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/sujitmeshram]
 
 ## 🤝 Let's Connect!
 
