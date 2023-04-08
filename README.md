@@ -4,7 +4,7 @@
 <img align="right" alt="GIF"  height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </div>
 
-- <b>I'm a passionate software engineer with 4 years of experience in building web applications and software solutions. I specialize in full-stack development. I enjoy solving complex problems and creating innovative solutions that make a positive impact.<b>
+<b>I'm a passionate software engineer with 4 years of experience in building web applications and software solutions. I specialize in full-stack development. I enjoy solving complex problems and creating innovative solutions that make a positive impact.<b>
 
 
  <b>📧 Mail: [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com) <br>
@@ -14,14 +14,8 @@
   <b>
   
   <br>
-   <br>
+  <br>
 
-   
-<a href=#><img src="contributions.svg"></a>
-
-   
-   <br>
-   <br>
    
 ### Technologies and Languages:
 
