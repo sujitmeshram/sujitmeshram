@@ -1,19 +1,29 @@
-### Hi there 👋 I'm [Sujit!](https://github.com/sujitmeshram)
+### Hi there 👋 I'm [Sujit M.!](https://github.com/sujitmeshram) I am passionate Software Engineer and I am completely love in coding ❤
 
 <div style="border-radius:50%" >
 <img align="right" alt="GIF"  height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </div>
- ❤ Software Engineering is my Passion ❤
 
-- <b>Actively Looking for Software Engineer-1 Role <b> 📧 Mail: [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
-- 👨‍💻 I’m currently working on some personal projects.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and adding something great in community.
- - ❤ I'm very much interested to work for <b>startups</b> or <b>product based companies</b> which can impact and change the millions of people's lives.
-- 👨‍💻 My main goal of life is to contribute to that codebase which is or which will be serving millions of customer. 
-- 👉 LinkedIn: [www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)<br>
----
+- <b>I'm a passionate software engineer with 4 years of experience in building web applications and software solutions. I specialize in full-stack development. I enjoy solving complex problems and creating innovative solutions that make a positive impact.<b>
 
-##### Languages I use
+
+ <b>📧 Mail: [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com) <br>
+  <br>
+ 🙋‍♂️ Follow me on Linkedin for tech related stuffs: [www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)
+  
+  <b>
+  
+  <br>
+   <br>
+
+   
+<a href=#><img src="contributions.svg"></a>
+
+   
+   <br>
+   <br>
+   
+### Technologies and Languages:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -27,10 +37,6 @@
 
 
 
-<a href=#><img src="contributions.svg"></a>
-
-##### Some of the technologies I have worked with
-
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
@@ -40,6 +46,10 @@
 ![Express.js](https://img.shields.io/badge/-express.js-000000?style=flat&logo=express.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
+![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square&logo=blockchain)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socketio)
+
 <br/>
 
 ---
