@@ -13,16 +13,18 @@ I'm proficient in several programming languages and technologies, including:
 - **Version Control**: Git, GitHub
 - **Others**: Postman, Socket.io, Redux, Agile Methodology, Heroku, Visual Studio, AWS, Oracle APEX
 
-## 👨‍💻 My Work Philosophy
-
-As a software engineer, I'm committed to writing clean, efficient, and scalable code. I believe in the power of collaboration and open communication to achieve the best results. I'm always eager to learn from others and share my knowledge with the community.
-
 ## 📫 How to Reach Me
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
 - Email: [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)
+
+
+## 👨‍💻 My Work Philosophy
+
+As a software engineer, I'm committed to writing clean, efficient, and scalable code. I believe in the power of collaboration and open communication to achieve the best results. I'm always eager to learn from others and share my knowledge with the community.
+
 
 ## 🤝 Let's Connect!
 
