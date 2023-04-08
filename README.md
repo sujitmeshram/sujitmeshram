@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm passionate about creating innovative software 
 
 I'm proficient in several programming languages and technologies, including:
 
-- **Frontend Development**: HTML, CSS, JavaScript, React, Angular
-- **Backend Development**: Node.js, Python, Java, Express,js
+- **Frontend Development**: HTML, CSS, JavaScript, React, Angular, LATEX, Bootstrap
+- **Backend Development**: Node.js, Python, Java, Express,js, C#
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Machine Learning**: TensorFlow, Scikit-Learn, PyTorch
 - **Version Control**: Git, GitHub
-- **Others**: Postman, Socket.io
+- **Others**: Postman, Socket.io, Redux, Agile Methodology, Heroku, Visual Studio, AWS, Oracle APEX
 
 ## 👨‍💻 My Work Philosophy
 
