@@ -22,7 +22,7 @@ As a software engineer, I'm committed to writing clean, efficient, and scalable 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
 - Email: [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/sujitmeshram]
+- LinkedIn: [https://www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)
 
 ## 🤝 Let's Connect!
 
