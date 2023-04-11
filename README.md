@@ -10,7 +10,7 @@ I'm proficient in several programming languages and technologies, including:
 - **Backend Development**: Node.js, Python, Java, Express,js, C#
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Machine Learning**: TensorFlow, Scikit-Learn, PyTorch
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, SVN
 - **Others**: Postman, Socket.io, Redux, Agile Methodology, Heroku, Visual Studio, AWS, Oracle APEX
 
 ## 📫 How to Reach Me
