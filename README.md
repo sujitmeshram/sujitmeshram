@@ -1,24 +1,8 @@
-# Hi there! 👋 I'm Sujit M, I am a Software Engineer 💻 and Tech Enthusiast 🤖
+# Hi there! 
+# Welcome to my Gihtub Profile.
+# I'm Sujit, I am currently working as Software Engineer at Nashtech
 
-Welcome to my GitHub profile! I'm passionate about creating innovative software solutions that make a positive impact on people's lives. With a strong background in software development and a love for problem-solving, I'm always excited to take on new challenges and learn new technologies.
-
-## 💻 Tech Stack
-
-I'm proficient in several programming languages and technologies, including:
-
-- **Frontend Development**: HTML, CSS, JavaScript, React, Angular, LATEX, Bootstrap
-- **Backend Development**: Node.js, Python, Java, Express,js, C#
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Machine Learning**: TensorFlow, Scikit-Learn, PyTorch
-- **Version Control**: Git, GitHub, SVN
-- **Others**: Postman, Socket.io, Redux, Agile Methodology, Heroku, Visual Studio, AWS, Oracle APEX
-
-## 📫 How to Reach Me
-
-I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
-
-- Email: [sujitmeshramofficial@gmail.com](mailto:sujitmeshramofficial@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/sujitmeshram](https://www.linkedin.com/in/sujitmeshram)
+I'm passionate about creating innovative software solutions that make a positive impact on people's lives. With a strong background in software development and a love for problem-solving, I'm always excited to take on new challenges and learn new technologies.
 
 
 ## 👨‍💻 My Work Philosophy
