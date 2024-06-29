@@ -1,7 +1,7 @@
 # Hi there! Welcome to my Github Profile.
 # I'm Sujit, I am currently working as Software Engineer at Nashtech
 
-I'm passionate about creating innovative software solutions that make a positive impact on people's lives. With a strong background in software development and a love for problem-solving, I'm always excited to take on new challenges and learn new technologies.
+I'm passionate about creating innovative software solutions that make a positive impact on people's lives. I love to build scalable software soluions which will impact the world. With a strong background in software development and a love for problem-solving, I'm always excited to take on new challenges and learn new technologies.
 
 
 ## 👨‍💻 My Work Philosophy
